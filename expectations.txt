@@ -1,0 +1,4 @@
+Expectations for CMSC 100:
+1. html/css/javascript mastery
+2. explore web services and interactive web clients
+
